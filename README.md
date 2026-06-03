@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haruna-fujishima-812b7a1b8/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.fujishima@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Toronto,_Canada-grey?style=for-the-badge)]()
 [![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-Healthcare_Tech-brightgreen?style=for-the-badge)]()
 
@@ -115,7 +115,7 @@ I'm actively exploring roles at the intersection of **healthcare, technology, an
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0891b2&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0891b2&style=for-the-badge)](https://www.linkedin.com/in/haruna-fujishima-812b7a1b8/)
 
 *Healthcare knowledge is the moat. Technology is the vehicle.* 🚀
 
