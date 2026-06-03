@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haruna-fujishima-812b7a1b8/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.fujishima@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Toronto,_Canada-grey?style=for-the-badge)]()
-[![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-Healthcare_Tech-brightgreen?style=for-the-badge)]()
+[![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-Healthcare_Tech-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/haruna-fujishima-812b7a1b8/)
 
 </div>
 
